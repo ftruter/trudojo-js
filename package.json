@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-minimal",
-  "version": "2.0.1",
-  "description": "A clean, simple nodejs starter",
+  "name": "trudojo-js",
+  "version": "0.0.1",
+  "description": "The minimal web dev anti-crud framework",
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint src/*.js src/specs/*.js",
@@ -13,7 +13,7 @@
     "node": ">=13.13.0"
   },
   "type": "module",
-  "author": "Brian Gershon",
+  "author": "Fred Truter",
   "license": "MIT",
   "devDependencies": {
     "@babel/preset-env": "^7.11.5",
